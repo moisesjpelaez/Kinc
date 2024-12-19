@@ -48,7 +48,7 @@ typedef enum {
 KINC_FUNC bool kinc_g4_supports_instanced_rendering(void);
 
 /// <summary>
-/// Returns whether GPU-compute (the functions in kinc/compute/compute.h) is supported.
+/// Returns whether GPU-compute (the functions in kinc/graphics4/compute.h) is supported.
 /// </summary>
 /// <returns>Whether GPU-compute is supported</returns>
 KINC_FUNC bool kinc_g4_supports_compute_shaders(void);

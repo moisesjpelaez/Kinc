@@ -6,7 +6,7 @@
 #include <kinc/backend/graphics4/pipeline.h>
 #include <kinc/backend/graphics4/vertexbuffer.h>
 #include <kinc/color.h>
-#include <kinc/compute/compute.h>
+#include <kinc/graphics4/compute.h>
 #include <kinc/graphics4/constantbuffer.h>
 #include <kinc/graphics4/indexbuffer.h>
 #include <kinc/graphics4/pipeline.h>

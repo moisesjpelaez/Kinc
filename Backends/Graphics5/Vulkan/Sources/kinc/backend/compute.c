@@ -1,4 +1,4 @@
-#include <kinc/compute/compute.h>
+#include <kinc/graphics4/compute.h>
 #include <kinc/math/core.h>
 
 void kinc_compute_shader_init(kinc_compute_shader_t *shader, void *source, int length) {}

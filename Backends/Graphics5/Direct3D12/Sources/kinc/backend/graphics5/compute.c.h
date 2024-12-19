@@ -1,6 +1,6 @@
 #include <kinc/backend/compute.h>
 
-#include <kinc/compute/compute.h>
+#include <kinc/graphics4/compute.h>
 #include <kinc/graphics4/texture.h>
 #include <kinc/log.h>
 #include <kinc/math/core.h>

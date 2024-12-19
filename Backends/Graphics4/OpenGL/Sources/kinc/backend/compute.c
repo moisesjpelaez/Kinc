@@ -1,4 +1,4 @@
-#include <kinc/compute/compute.h>
+#include <kinc/graphics4/compute.h>
 #include <kinc/graphics4/graphics.h>
 #include <kinc/graphics4/rendertarget.h>
 #include <kinc/graphics4/texture.h>
